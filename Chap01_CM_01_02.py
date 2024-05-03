@@ -30,4 +30,4 @@ def prime(N):
         else:
             prime.append(a)
     return prime
-prime(70)
+prime()
